@@ -32,7 +32,7 @@
 
 - The code must be in HTML5
 
-![Html5](/assets/images/goals-html.png)
+![Html5](/assets/images/goal-html.png)
 
 #### CSS
 
