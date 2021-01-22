@@ -4,9 +4,11 @@
 
 ### Timothy John Berners-Lee
 
-### Used technologies
+### Mission
 
-### Tools
+Create an HTML page about Tim Berners-Lee who've created HTML. After creating the simple HTML page we have to reproduce the final page using CSS.
+
+### Used technologies
 
 - Terminal - Git
 - GitHub
