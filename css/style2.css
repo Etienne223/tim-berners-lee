@@ -1,0 +1,177 @@
+/* ========
+    Typo
+======== */
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700&display=swap');
+
+/* ==========
+    Global 
+=========== */
+
+*,
+*::after,
+*::before {
+    margin: 0;
+    padding: 0;
+    overflow-x: none;
+}
+
+body {
+    background-color: #EBEBEB;
+    font-family: Open-Sans, sans-serif;
+}
+
+article {
+    background-color: white;
+}
+
+h1 {
+    color: tomato;
+    font-weight: 600;
+    font-size: 35px;
+    text-align: center;
+    margin: 25px 0 25px 0;
+}
+
+h2,
+h3 {
+    color: gray;
+    font-size: 30px;
+    font-weight: 400;
+    text-align: center;
+}
+
+p {
+    color: lightgray;
+    font-size: 17px;
+    line-height: 30px;
+    font-weight: 300;
+    text-align: justify;
+}
+
+mark {
+    background-color: lightgray;
+    color: gray;
+}
+
+/* ================
+    Global Layout
+=============== */
+
+main {
+    height: 100vh;
+    display: grid;
+    grid-template-columns: 33.3% 33.3% 33.3%;
+    grid-template-rows: auto auto auto;
+    row-gap: 20px;
+    margin: 50px 0 50px 0;
+}
+
+.container {
+    border-radius: 5px;
+    box-shadow: 5px 1px 50px -10px rgba(0, 0, 0, 0.06);
+}
+
+#about {
+    grid-column: 2/ 3;
+    grid-row: 1 / 2;
+}
+
+#social {
+    grid-column: 2 / 3;
+    grid-row: 2 / 3;
+}
+
+#social ul {
+    display: grid;
+    grid-template-columns: 50px auto auto auto 50px;
+    list-style-type: none;
+}
+
+#fb {
+    grid-column: 2 / 3;
+}
+
+#li {
+    grid-column: 3 / 4;
+}
+
+#tw {
+    grid-column: 4 / 5;
+}
+
+#movies {
+    grid-column: 2 / 3;
+    grid-row: 3 / 4;
+}
+
+/* ================
+    About section
+================ */
+
+#about img {
+    display: block;
+    border-radius: 50%;
+    border: 5px solid lightgray;
+    width: 20%;
+    margin: 30px auto 0 auto;
+}
+
+#about p {
+    display: block;
+    width: 70%;
+    margin: 20px auto 20px auto;
+    text-align: justify;
+}
+
+#about button {
+    display: block;
+    margin: 0 auto 30px auto;
+    background-color: tomato;
+    font-size: 20px;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 3px;
+}
+
+/* ================
+    Social Section
+================ */
+
+#social ul {
+    padding: 70px 0 70px 0;
+}
+
+#social li {
+    font-size: 30px;
+    text-align: center;
+    color: lightgray;
+}
+
+#social a {
+    text-decoration: none;
+    color: lightgray;
+    font-size: 20px;
+}
+
+/* ===============
+    Movie Section
+================ */
+
+#movies h2 {
+    margin: 30px 0 30px 0;
+}
+
+#movies img {
+    margin: 0 20px 30px 40px;
+}
+
+#movies p {
+    padding-top: 30px;
+    margin-right: 40px;
+}
+
+#movies span {
+    text-transform: lowercase;
+}
