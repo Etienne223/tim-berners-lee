@@ -47,3 +47,7 @@ Create an HTML page about Tim Berners-Lee who've created HTML. After creating th
 - The result must look like the image below
 
 ![CSS3](/assets/images/goal-css.png)
+
+#### Link to the page
+
+[Tim Berners-Lee](https://etienne223.github.io/tim-berners-lee/)
