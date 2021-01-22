@@ -59,6 +59,6 @@ Create an HTML page about Tim Berners-Lee who've created HTML. After creating th
 
 #### Even if it doesn't count
 
-I succeed to do the challenge by starting over my old CSS and thinking calmly. Everything went as planned. I've created a new branch with all the correction. When the review of my first code will be done I'll merge.
+I succeed to do the challenge by starting over my old CSS and thinking calmly. Everything went as planned. I've created a new branch with all the corrections. When the review of my first code will be done I'll merge.
 
 ![Challenge Succeed, well atleast way better than the first time](assets/images/Correction.png)
