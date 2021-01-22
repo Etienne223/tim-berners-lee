@@ -51,3 +51,14 @@ Create an HTML page about Tim Berners-Lee who've created HTML. After creating th
 #### Link to the page
 
 [Tim Berners-Lee](https://etienne223.github.io/tim-berners-lee/)
+
+------------------------------
+------------------------------
+
+## EDIT 22/01/2021 15:57
+
+#### Even if it doesn't count
+
+I succeed to do the challenge by starting over my old CSS and thinking calmly. Everything went as planned
+
+[Challenge Succeed, well atleast way better than the first time](assets/images/Correction.png)
