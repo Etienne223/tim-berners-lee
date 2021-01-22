@@ -61,4 +61,4 @@ Create an HTML page about Tim Berners-Lee who've created HTML. After creating th
 
 I succeed to do the challenge by starting over my old CSS and thinking calmly. Everything went as planned
 
-[Challenge Succeed, well atleast way better than the first time](assets/images/Correction.png)
+![Challenge Succeed, well atleast way better than the first time](assets/images/Correction.png)
