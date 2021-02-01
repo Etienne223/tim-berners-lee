@@ -4,9 +4,11 @@
 
 ### Timothy John Berners-Lee
 
-### Used technologies
+### Mission
 
-### Tools
+Create an HTML page about Tim Berners-Lee who've created HTML. After creating the simple HTML page we have to reproduce the final page using CSS.
+
+### Used technologies
 
 - Terminal - Git
 - GitHub
@@ -46,7 +48,13 @@
 
 ![CSS3](/assets/images/goal-css.png)
 
-===================================
+
+#### Link to the page
+
+[Tim Berners-Lee](https://etienne223.github.io/tim-berners-lee/)
+
+------------------------------
+------------------------------
 
 ## EDIT 22/01/2021 15:57
 
@@ -55,3 +63,5 @@
 I succeed to do the challenge by starting over my old CSS and thinking calmly. Everything went as planned
 
 [Challenge Succeed, well atleast way better than the first time](assets/images/Correction.png)
+I succeed to do the challenge by starting over my old CSS and thinking calmly. Everything went as planned. I've created a new branch with all the corrections. When the review of my first code will be done I'll merge.
+
